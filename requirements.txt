@@ -1,0 +1,6 @@
+loguru
+torch
+torchvision
+matplotlib
+sklearn
+pandas
